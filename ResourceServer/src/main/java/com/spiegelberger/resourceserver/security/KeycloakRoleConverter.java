@@ -1,4 +1,4 @@
-package com.example.resourceserver.security;
+package com.spiegelberger.resourceserver.security;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package com.example.resourceserver.controllers;
+package com.spiegelberger.resourceserver.controllers;
 
 import java.util.Collections;
 import java.util.Map;
