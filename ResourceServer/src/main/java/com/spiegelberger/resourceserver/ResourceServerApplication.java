@@ -1,4 +1,4 @@
-package com.spiegelberger.resource.server;
+package com.spiegelberger.resourceserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
