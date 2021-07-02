@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.spiegelberger.ws.api.albums.controllers;
+package com.spiegelberger.albums.controllers;
 
 import java.util.Arrays;
 import java.util.List;
@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.spiegelberger.ws.api.albums.response.AlbumRest;
+import com.spiegelberger.albums.response.AlbumRest;
 
 @RestController
 @RequestMapping("/albums")
